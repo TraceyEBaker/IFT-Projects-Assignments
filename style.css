@@ -1,0 +1,96 @@
+<style>
+
+body{
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 14px;
+}
+
+h1{
+	font-family: Sans-Serif;
+	text-align: center;
+	font-size: 32px;
+	border: #FFFFFF;
+	padding: 10px 0;
+	border-style: solid;
+	border-color: #FFFFFF;
+	
+}
+
+p{
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 16px;
+}
+
+.footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	text-align:center;
+	color: #FFFFFF;
+	width: 100%;
+}
+
+.homepagebackground img{
+	float: left;
+	padding: 0 20px 20px 0;
+}
+
+.selfie img{
+	float: left;
+	padding: 0 20px 20px 0;
+}
+
+.galaxy img{
+	float: right;
+	padding: 0 20px 20px 0;
+}
+
+.dicetray img{
+	float:right;
+	padding: 0 20px 20px 0;
+}
+
+.contactselfie img{
+	float: center;
+	padding: 0 20px 20px 0;
+}
+
+.class-for-index{
+	font-family: Sans-Serif;
+	color: #FFFFFF;
+	background-color:#778899;
+	
+}
+
+.class-for-galaxyworlds{
+	font-family: Sans-Serif;
+	color: #FFFFFF;
+	background-color: #778899;
+}
+
+.class-for-betrayal{
+	font-family: Sans-Serif;
+	color: #FFFFFF;
+	background-color: #778899;
+}
+
+.class-for-fascists{
+	font-family: Sans-Serif;
+	color: #FFFFFF;
+	background-color: #778899;
+}
+
+.class-for-contact{
+	font-family: Sans-Serif;
+	color: #FFFFFF;
+	background-color: #778899;
+}
+
+label,input,textarea{
+	display: block;
+}
+
+
+</style>
